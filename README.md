@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+## About
+Hi I'm Rob, a technologist and entrepreneur with experience in Full-Stack web development (Python, React), Product Management & Machine Learning (NLP).
+
+## Projects
+
+[Ad Accelerator](https://github.com/rkk3/ad-accelerator)
 
 <!--
 **rkk3/rkk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
