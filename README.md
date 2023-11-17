@@ -7,7 +7,7 @@ Hi I'm Rob, a technologist and entrepreneur with experience in Full-Stack web de
 
 [Ad Accelerator](https://github.com/rkk3/ad-accelerator)
 	
- An extension to automatically mute and 10x increase the speed of video advertisements, on video sharing sites like Youtube.  
+ An extension to automatically mute and 10x the speed of video advertisements on Youtube.  
 &nbsp;&nbsp;&nbsp;&nbsp; [Chrome webstore Link](https://chromewebstore.google.com/detail/gpboiedfklodfhngobidfjecdpmccehg)
 
 <!--
