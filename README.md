@@ -8,7 +8,7 @@ Hi I'm Rob, a technologist and entrepreneur with experience in Full-Stack web de
 [Ad Accelerator](https://github.com/rkk3/ad-accelerator)
 	
  An extension to automatically mute and 10x increase the speed of video advertisements, on video sharing sites like Youtube.  
-&nbsp;&nbsp;&nbsp;&nbsp; [Chrome webstore Link] (https://chromewebstore.google.com/detail/gpboiedfklodfhngobidfjecdpmccehg)
+&nbsp;&nbsp;&nbsp;&nbsp; [Chrome webstore Link](https://chromewebstore.google.com/detail/gpboiedfklodfhngobidfjecdpmccehg)
 
 <!--
 **rkk3/rkk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
