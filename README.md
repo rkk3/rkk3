@@ -5,10 +5,10 @@ Hi I'm Rob, a technologist and entrepreneur with experience in Full-Stack web de
 
 ## Projects
 
-[Ad Accelerator](https://github.com/rkk3/ad-accelerator)
+[Ad Accelerator](https://github.com/rkk3/ad-accelerator)  ![GitHub Repo stars](https://img.shields.io/github/stars/rkk3/ad-accelerator?style=social)
 	
  An extension to automatically mute and 10x the speed of video advertisements on Youtube.  
-&nbsp;&nbsp;&nbsp;&nbsp; [Chrome webstore Link](https://chromewebstore.google.com/detail/gpboiedfklodfhngobidfjecdpmccehg)
+&nbsp;&nbsp;&nbsp;&nbsp; [Chrome Webstore ](https://chromewebstore.google.com/detail/gpboiedfklodfhngobidfjecdpmccehg)
 
 <!--
 **rkk3/rkk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
